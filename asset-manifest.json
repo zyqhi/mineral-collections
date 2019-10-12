@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mineral/static/css/main.b100e6da.chunk.css",
+    "main.js": "/mineral/static/js/main.32f18546.chunk.js",
+    "main.js.map": "/mineral/static/js/main.32f18546.chunk.js.map",
+    "runtime-main.js": "/mineral/static/js/runtime-main.066e75fc.js",
+    "runtime-main.js.map": "/mineral/static/js/runtime-main.066e75fc.js.map",
+    "static/js/2.40351770.chunk.js": "/mineral/static/js/2.40351770.chunk.js",
+    "static/js/2.40351770.chunk.js.map": "/mineral/static/js/2.40351770.chunk.js.map",
+    "index.html": "/mineral/index.html",
+    "precache-manifest.d305e8747eea1f33eaef16df7acceb0a.js": "/mineral/precache-manifest.d305e8747eea1f33eaef16df7acceb0a.js",
+    "service-worker.js": "/mineral/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/mineral/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/mineral/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.066e75fc.js",
+    "static/js/2.40351770.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.32f18546.chunk.js"
+  ]
+}
